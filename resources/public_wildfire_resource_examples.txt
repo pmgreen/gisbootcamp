@@ -1,0 +1,5 @@
+Public Wildfire GIS Resource examples:
+- https://www.tn.gov/tnwildlandfire/suppression/current-wildfires.html
+- https://www.fireweatheravalanche.org/state/tennessee#5.8/35.773/-86.282
+- https://felt.com/explore/wildfires-tennessee
+- https://data.tennessean.com/fires/ 
