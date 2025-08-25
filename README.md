@@ -1,6 +1,6 @@
 # gisbootcamp
 
-Files for [Bootcamp GIS](https://bootcampgis.com/) courses. Enterprise GIS certificate earned August 2025. 
+Files related to [Bootcamp GIS](https://bootcampgis.com/) courses. Enterprise GIS certificate earned August 2025. 
 
 Project-based coursework:
 * [Build an ArcGIS Hub to Promote Environmental Justice](https://bootcampgis.com/product/build-an-arcgis-hub-to-promote-environmental-justice/)
