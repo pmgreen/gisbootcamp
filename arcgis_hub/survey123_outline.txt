@@ -1,0 +1,18 @@
+# survey123 outline
+
+## Planting data
+Where was it planted
+Description of spot
+
+## Tree data
+Kind of tree
+- If 'other' ask for more info
+Date (not time) of planting
+Current size of tree (TODO: range could be much smaller for recently planted trees)
+
+## Planter data
+Optional contact information
+
+## Subjective data (qualitative)
+Optional question about affection for tree
+Option to add relevant notes
